@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "记录学习与生活",
 
 	// 站点 URL
-	site_url: "https://blog.c1everf0x.com",
+	site_url: "https://c1everf0x.top",
 
 	// 站点描述
 	description:
