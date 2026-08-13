@@ -9,6 +9,7 @@ import FontSetup from "@components/features/FontSetup.astro";
 import MusicManager from "@components/features/MusicManager.astro";
 import SakuraEffect from "@components/features/SakuraEffect.astro";
 import ConfigCarrier from "@components/layout/ConfigCarrier.astro";
+import CopyMessage from "@components/common/CopyMessage.svelte";
 
 import {
 	analyticsConfig,
@@ -607,6 +608,7 @@ const siteLang = lang.replace("_", "-");
     {shouldShowTopHighlight && <div class="top-gradient-highlight" />}
     <ConfigCarrier />
     <MusicManager />
+    <CopyMessage client:load />
     <slot />
 
 

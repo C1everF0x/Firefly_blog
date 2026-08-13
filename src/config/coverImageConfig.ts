@@ -29,12 +29,20 @@ export const coverImageConfig: CoverImageConfig = {
 
 	randomCoverImage: {
 		// 随机封面图功能开关
-		enable: false,
+		enable: true,
 		// 封面图API列表
 		apis: [
-			"https://t.alcy.cc/pc",
-			"https://www.dmoe.cc/random.php",
-			"https://uapis.cn/api/v1/random/image?category=acg&type=pc",
+			"/assets/images/random-covers/cover-01.jpg",
+			"/assets/images/random-covers/cover-02.jpg",
+			"/assets/images/random-covers/cover-03.jpg",
+			"/assets/images/random-covers/cover-04.jpg",
+			"/assets/images/random-covers/cover-05.jpg",
+			"/assets/images/random-covers/cover-06.jpg",
+			"/assets/images/random-covers/cover-07.jpg",
+			"/assets/images/random-covers/cover-08.jpg",
+			"/assets/images/random-covers/cover-09.jpg",
+			"/assets/images/random-covers/cover-10.jpg",
+			"/assets/images/random-covers/cover-11.jpg",
 		],
 	},
 };

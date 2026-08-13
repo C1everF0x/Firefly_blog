@@ -52,9 +52,10 @@ export function processCoverImageSync(
 		return "";
 	}
 
-	// 始终使用第一个API，失败时由客户端按顺序尝试后续API
+	// 根据文章seed确定性选择一张图（hash取模），不同文章自然散开；失败时由客户端按顺序尝试其余图
 	const hash = getSeedHash(seed);
-	return appendSeedParam(randomCoverImage.apis[0], hash);
+	const index = hash % randomCoverImage.apis.length;
+	return appendSeedParam(randomCoverImage.apis[index], hash);
 }
 
 /**
@@ -72,7 +73,13 @@ export function getApiUrlList(
 	}
 
 	const hash = getSeedHash(seed);
-	return randomCoverImage.apis.map((api) => appendSeedParam(api, hash));
+	const index = hash % randomCoverImage.apis.length;
+	const selected = randomCoverImage.apis[index];
+	const rest = randomCoverImage.apis.filter((_, i) => i !== index);
+	return [
+		appendSeedParam(selected, hash),
+		...rest.map((api) => appendSeedParam(api, hash)),
+	];
 }
 
 /**

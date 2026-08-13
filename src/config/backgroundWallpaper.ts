@@ -38,11 +38,11 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	src: {
 		// 桌面背景图片（支持单张或多张随机）
 		desktop: [
-			"https://aimerl0-1303178350.cos.ap-guangzhou.myqcloud.com/img/backiee-25528.jpg",
-			"https://aimerl0-1303178350.cos.ap-guangzhou.myqcloud.com/img/backiee-102533.jpg",
-			"https://aimerl0-1303178350.cos.ap-guangzhou.myqcloud.com/img/backiee-104952.jpg",
-			"https://aimerl0-1303178350.cos.ap-guangzhou.myqcloud.com/img/backiee-131301.jpg",
-			"https://aimerl0-1303178350.cos.ap-guangzhou.myqcloud.com/img/%E7%B2%89%E8%89%B2%E7%8C%AB%E7%8C%AB.jpg",
+			"assets/images/DesktopWallpaper/wallpaper-01.jpg",
+			"assets/images/DesktopWallpaper/wallpaper-02.jpg",
+			"assets/images/DesktopWallpaper/wallpaper-03.jpg",
+			"assets/images/DesktopWallpaper/wallpaper-04.jpg",
+			"assets/images/DesktopWallpaper/wallpaper-05.jpg",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		mobile: "assets/images/MobileWallpaper/m1.avif",

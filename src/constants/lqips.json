@@ -22,5 +22,21 @@
   "src:content/posts/images/1.avif": "b5b0b3bcb6bbe0e0df",
   "src:content/posts/guide/cover.avif": "c8bca9dde6d2babfb5",
   "src:assets/images/logo/firefly-light.png": "000000000000000000",
-  "src:assets/images/logo/firefly-dark.png": "ffffffffffffffffff"
+  "src:assets/images/logo/firefly-dark.png": "ffffffffffffffffff",
+  "public:assets/images/random-covers/cover-11.jpg": "eebccdeeb5cae1cfdf",
+  "public:assets/images/random-covers/cover-10.jpg": "e8a59ef8b1a5d2b196",
+  "public:assets/images/random-covers/cover-09.jpg": "d6e9f1bfdce8a5c5db",
+  "public:assets/images/random-covers/cover-08.jpg": "d99fa4f0a8a7a5799a",
+  "public:assets/images/random-covers/cover-07.jpg": "e4b8c4e6b8c7d2b9d5",
+  "public:assets/images/random-covers/cover-06.jpg": "bdc2d6a8c9d9c7bfd7",
+  "public:assets/images/random-covers/cover-05.jpg": "a7d3eb96d2ef30a3cc",
+  "public:assets/images/random-covers/cover-04.jpg": "e4d2e2e9c8d4dbcbd8",
+  "public:assets/images/random-covers/cover-03.jpg": "bbd7eabfdaeca7cbe1",
+  "public:assets/images/random-covers/cover-02.jpg": "c2dee9b2d6e1bae5e4",
+  "public:assets/images/random-covers/cover-01.jpg": "2d33421523351b2636",
+  "src:assets/images/DesktopWallpaper/wallpaper-05.jpg": "f2dee5c48fa2cd9eac",
+  "src:assets/images/DesktopWallpaper/wallpaper-04.jpg": "bde2e5cfeff24a6478",
+  "src:assets/images/DesktopWallpaper/wallpaper-03.jpg": "1d1e341e1c392a2338",
+  "src:assets/images/DesktopWallpaper/wallpaper-02.jpg": "aacfc9b8d8c86481a5",
+  "src:assets/images/DesktopWallpaper/wallpaper-01.jpg": "429b9d3c99994ea6a0"
 }
