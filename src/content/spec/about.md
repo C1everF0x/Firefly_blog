@@ -1,27 +1,26 @@
-# 关于我 / About Me
+# 写在前面
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+~~这是一段自我介绍，我还没想好写什么~~
 
-## 🛠️ 关于本站
+这是一段自我介绍，随便写写
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+##  😎 关于我
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+>  常用 id：C1everF0x、克莱ver佛克斯
+>
+> > GUET **7** 年老兵
+> >
+> > 信息安全协会里扫地倒垃圾的清洁工、退役CTFer，hvv 主力🐒，考研历史得分王，读书时两年 web 🐶转 pwn 手后做二进制安全，毕业时研究LLVM代码混淆，~~未来想研究研究网安的 agent 开发、智能体应用相关的东西~~
+> >
+> > 目前就职于 GUET 网信中心，是赛博保安，是蓝队总负责人，是会点鼠标的🐒
 
+小时候是个拿别人工具去社工钓妹妹 QQ 密码看空间照片的臭傻逼，现在长大了正在努力成为自己想成为的人，做自己想做的事，希望以后不用桥洞子里盖小被，也不用去网吧捡别人喝剩下的饮料，成为一个有产出的~~安全研究员~~赛博保安
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+随着年纪不断变大，我发现自己越来越容易遗忘也越来越容易陷入回忆，为了对抗磨损对抗遗忘，我想把回忆、经历、感悟、学习笔记、游戏测评、影评，甚至是某次胡思乱想写成一篇篇博客记录下来，主要还是写给自己看。
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
-
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+如果文章内有写得不对的东西可以加我的联系方式与我交流🤺一波，欢迎正常人来交流技术、生活和游戏。
+QQ：window.atob(“MTE2MDExODE2MQ&#x3D;&#x3D;”)
+邮箱：window.atob(“T3VpMGpyQDE2My5jb20&#x3D;”)
 
 ---
 
