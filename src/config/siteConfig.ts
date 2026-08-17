@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "",
 
 	// 站点 URL
-	site_url: "https://c1everf0x.top",
+	site_url: "https://c1everf0x.cn",
 
 	// 站点描述
 	description:
