@@ -4,6 +4,8 @@ published: 2022-12-23
 tags: ["年终总结"]
 category: "人生总结"
 image: api
+password: kaoyanchenggong
+passwordHint: 问问博主，或者在朋友圈找找
 ---
 
 > 写在前面
